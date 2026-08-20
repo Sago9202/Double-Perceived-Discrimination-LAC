@@ -1,0 +1,1 @@
+This repository has the R scripts to conduct the analyses presented in the paper "Unraveling perceived discrimination in Latin America and the Caribbean: the intertwined roles of skin color, ethnicity and race".
